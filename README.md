@@ -1,6 +1,6 @@
 # UMLDiagram
 
-##University Management Systems##
+#University Management Systems
 
 1 - Üniversiteye ait sınıflıklar, çalışma ofisleri ve departmanlar vardır.
 
